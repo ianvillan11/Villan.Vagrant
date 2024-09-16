@@ -1,0 +1,43 @@
+    1  whoami
+    2  pwd
+    3  man man
+    4  ls
+    5  cd repogit
+    6  ssh-keygen -t ed25519
+    7  ls -la
+    8  cd .ssh
+    9  ls
+   10  ls -la
+   11  cat .ssh
+   12  ssh-keygen -t ed25519
+   13  ls -la
+   14  cd .ssh
+   15  ls
+   16  cat id_ed25519.pub
+   17  clip
+   18  clip 
+   19  cd .ssh
+   20  ls -la
+   21  clip > id_ed25519.pub
+   22  cat id_ed25519.pub
+   23  cd ..
+   24  ls -la
+   25  cd .ssh
+   26  cat id_ed25519.pub
+   27  cd .ssh
+   28  sudo cat id_ed25519-pub
+   29  sudo cat id_ed25519.pub
+   30  cd ..
+   31  ssh-keygen -t ed25519
+   32  cd .ssh
+   33  cat id_ed25519.pub
+   34  history
+   35  cd ..
+   36  ls
+   37  cd repogit
+   38  ls
+   39  git clone git@github.com:ianvillan11/Villan.Vagrant.git
+   40  ls
+   41  cd Villan.Vagrant
+   42  ls
+   43  history > historial.txt
